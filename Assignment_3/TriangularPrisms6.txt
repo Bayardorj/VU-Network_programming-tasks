@@ -1,0 +1,6 @@
+Triangular prism with a base with sides a=3.00, b=4.00 and c=5.00, and a height 3.00, has an area P=48.00 and a volume V=18.00.
+Triangular prism with a base with sides a=3.00, b=4.00 and c=5.00, and a height 6.00, has an area P=84.00 and a volume V=36.00.
+Triangular prism with a base with sides a=5.00, b=4.00 and c=5.00, and a height 3.00, has an area P=60.33 and a volume V=27.50.
+Triangular prism with a base with sides a=5.00, b=5.00 and c=5.00, and a height 3.00, has an area P=66.65 and a volume V=32.48.
+Triangular prism with a base with sides a=4.00, b=4.00 and c=4.00, and a height 9.00, has an area P=121.86 and a volume V=62.35.
+Triangular prism with a base with sides a=3.00, b=4.00 and c=5.00, and a height 3.00, has an area P=48.00 and a volume V=18.00.
